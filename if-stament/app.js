@@ -102,4 +102,16 @@
 // }
 
 
-var gar = hello
+// var age = prompt ("Enter your age " )
+// if (age === "20"){
+//     console.log("aupna parah hie kero");
+// }
+// else if(age === "25"){
+//     console.log("aup kam aur parahie dono kero");
+// }
+// else if (age === "30"){
+//     console.log("aup kam kero bss");
+// }
+// else{
+//     console.log("bus kuch bie kero");
+// }
